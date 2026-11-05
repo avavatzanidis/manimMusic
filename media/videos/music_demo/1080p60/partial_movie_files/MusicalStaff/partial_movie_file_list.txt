@@ -1,0 +1,6 @@
+# This file records the segment order used by Manim.
+file 'file:D:/Zandros/Own Projects/Manimusic/media/videos/music_demo/1080p60/partial_movie_files/MusicalStaff/bd8fa4278af6fc3d0d53d54bac3f91ae3175f3ab7fac0df0d7fe966098bd3bfc.mp4'
+file 'file:D:/Zandros/Own Projects/Manimusic/media/videos/music_demo/1080p60/partial_movie_files/MusicalStaff/fe32a760c40857938e4ac2e990f400d90761307fef728ea3d63de93a3630ca1b.mp4'
+file 'file:D:/Zandros/Own Projects/Manimusic/media/videos/music_demo/1080p60/partial_movie_files/MusicalStaff/97d7fb1c74b1aeb015ed5577e7bd0ab42f84c29310a35c725940e26f2a0ee467.mp4'
+file 'file:D:/Zandros/Own Projects/Manimusic/media/videos/music_demo/1080p60/partial_movie_files/MusicalStaff/611ec7dce05fdf0c694acc8f6008d1350b9cfc064ee4a9b595f5debb5e35a18c.mp4'
+file 'file:D:/Zandros/Own Projects/Manimusic/media/videos/music_demo/1080p60/partial_movie_files/MusicalStaff/015df1aec379f6806dd62df83425851fe3fcb7630942b7b0b96504853a7ad7fa.mp4'
